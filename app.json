@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Camera",
-    "slug": "Camera",
+    "name": "basic-camera-usage",
+    "slug": "snack-b7b8ff35-1e61-440c-86c4-884b4c09c12c",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
